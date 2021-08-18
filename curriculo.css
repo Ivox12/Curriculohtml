@@ -1,0 +1,70 @@
+body {
+	background-color: #111111;
+	background-size:auto;
+	color: white;
+	font-family: Trebuchet MS;
+}
+.body2 {
+	background-color: #363636;
+	background: content-box linear-gradient(to top left, #1C1C1C 45%, #696969 120%);
+	border-radius: 3%;
+	margin-left: 27% ;
+	margin-right: 27%;
+	margin-top: 5%;
+	border: solid 2px;
+	border-color: darkgrey;
+}
+.Banner	{
+	border-radius: 1%;
+	border-bottom: solid 2px;
+	border-color: grey;
+	margin-bottom: 5%;
+	overflow: auto;
+}
+#FotoPerfil {
+	width: 15% ;
+	border: solid;
+	border-radius: 5%;
+	border-color: grey ;
+	float: left;
+	margin-left: 15%;
+	margin-right: 2%;
+	margin-top: 1%;
+}
+.Nome {
+	padding-top: 1%;
+	font-size: 180%;
+}
+.Email {
+	display: flex;
+	font-size: 120%;
+}
+.Social {
+	display:inline-flex;
+	margin-top: -4.5%;
+	margin-left: 50%;
+	padding-right: 2%;
+	float: right;
+}
+
+.Mid {
+	margin-top: 5%;
+	padding-left: 5%;
+	list-style: url(imagens/finger.ico);
+}
+.Mid h2 {
+	font-size: 150%;
+}
+.Adcional {
+	margin-bottom: 3%;
+	padding-bottom: 2%;
+}
+.Social img {
+	height: 18px;
+	margin-right: 6px;
+	background-color: white;
+	border-radius: 100%;
+}
+.Textofinal {
+	font-size: 100%;
+}
