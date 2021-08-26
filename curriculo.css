@@ -8,11 +8,12 @@ body {
 	background-color: #363636;
 	background: content-box linear-gradient(to top left, #1C1C1C 45%, #696969 120%);
 	border-radius: 3%;
-	margin-left: 27% ;
-	margin-right: 27%;
 	margin-top: 5%;
 	border: solid 2px;
 	border-color: darkgrey;
+	width: 100%;
+	max-width: 685px;
+	margin: 0 auto;
 }
 .Banner	{
 	border-radius: 1%;
